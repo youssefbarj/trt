@@ -7,7 +7,7 @@
 
 ## Screenshot
 
-![trt](https://github.com/youssefbarj/trt/raw/main/screenshot.png)
+![trt](https://raw.githubusercontent.com/youssefbarj/trt/main/screenshot.png)
 
 ## What this slide does
 
